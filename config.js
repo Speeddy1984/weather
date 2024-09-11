@@ -1,0 +1,5 @@
+module.exports = {
+    WEATHERSTACK_API_URL: process.env.WEATHERSTACK_API_URL,
+    WEATHERSTACK_API_KEY: process.env.WEATHERSTACK_API_KEY,
+    DEFAULT_CITY: process.env.DEFAULT_CITY
+};
